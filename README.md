@@ -15,10 +15,10 @@ rust-yt-dlp is a feature-rich video downloader that supports thousands of sites 
 
 | Platform       | File                          | SHA256 check value                  |
 |------------|-------------------------------|--------------------------------|
-| Windows   | rust-yt-dlp-windows-x64.exe  | `sha256:0e934a1931d66efa363c481bc780db68504a0748451c7a010467480b7dd62f4e`         |
-| Linux     | rust-yt-dlp-v0.1.0-linux-x64.zip        | `sha256:5d23438c306187e73106c5e4a15f1d00113f9596c58143e2963be38ef40f1bd3`         |
-| macOS x64 | rust-yt-dlp-macos-x64        | `sha256:8f0506a62bb1f8f14a15b8a0d1e50be82ca2d19c65e94cb6d626bc09c9873747`         |
-| macOS ARM | rust-yt-dlp-macos-arm64      | `sha256:d8287119a0a552650229f8c571acc57ca36b4493c854394e0d607cdc0c60ec70`         |
+| Windows   | rust-yt-dlp-windows-x64.exe  | `sha256:01c96d22420685a0131a8b9de5666f3739dc53539481f9b995fa8f4414a2edda`         |
+| Linux     | rust-yt-dlp-v0.1.0-linux-x64.zip        | `sha256:a2f8d5f14f426057da2a52b5d59b271087510b28fb12b06387f7e3c34d2dcbf5`         |
+| macOS x64 | rust-yt-dlp-macos-x64        | `sha256:20f28e18ccd24de1f8df79381ba50a1c4f23b7de4624af5dd011a881077cb14d`         |
+| macOS ARM | rust-yt-dlp-macos-arm64      | `sha256:83d243377c9348d29dc4628ea32f991ffd0952196fbb12dfcb1c7eb1657b8c03`         |
 
 **How to use**:
 - Windows: Double-click `.exe` to run directly.
